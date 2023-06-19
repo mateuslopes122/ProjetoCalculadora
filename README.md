@@ -1,3 +1,3 @@
 # ProjetoCalculadora
 
-!(CALCULADORA.PNG)https://github.com/mateuslopes122/ProjetoCalculadora/blob/main/CALCULADORA.PNG
+!(print.png)https://github.com/mateuslopes122/ProjetoCalculadora/blob/main/CALCULADORA.PNG
